@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655293951 source:c:\users\usuario\onedrive - pontificia universidad católica madre y maestra\escritorio\pucmm\materias segundo ciclo\fundamentos de programacion\bingo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
